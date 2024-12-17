@@ -8,6 +8,9 @@ node_modules/
 *.tmp
 *.temp
 
+#ignore txt file
+comandos.txt
+
 # Ignore build directories
 dist/
 build/
